@@ -1,6 +1,7 @@
 # Yuan-Neuron_Tracking
 Code for Yuan, et al. 'Multi-Day Neuron Tracking in High Density Electrophysiology Recordings using EMD'
-(doi: https://doi.org/10.1101/2023.08.03.551724)
+(biorxiv doi: https://doi.org/10.1101/2023.08.03.551724)
+(eLife: eLife2024;12:RP92495 DOI: https://doi.org/10.7554/eLife.92495.3)
 
 All features are implemented in MATLAB R2023b.
 
@@ -60,4 +61,7 @@ Output:
 
 
 
+### Licensing
 
+Use is subject to Janelia Research Campus Software Copyright 1.2 license terms:
+[http://license.janelia.org/license](http://license.janelia.org/license).
